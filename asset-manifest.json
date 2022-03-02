@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/prashil-vaishnani/React_5.git/static/css/main.b4f76af8.css",
+    "main.js": "/prashil-vaishnani/React_5.git/static/js/main.d302d481.js",
+    "static/media/index2.jpg": "/prashil-vaishnani/React_5.git/static/media/index2.a72c8ed0113bcefd00cc.jpg",
+    "static/media/index7.jpg": "/prashil-vaishnani/React_5.git/static/media/index7.f43ddf3129ddc9305bbd.jpg",
+    "static/media/index6.jpg": "/prashil-vaishnani/React_5.git/static/media/index6.e85505797c3a2d16ae71.jpg",
+    "static/media/index3.jpg": "/prashil-vaishnani/React_5.git/static/media/index3.ddafbfc17b438d530bb8.jpg",
+    "index.html": "/prashil-vaishnani/React_5.git/index.html",
+    "main.b4f76af8.css.map": "/prashil-vaishnani/React_5.git/static/css/main.b4f76af8.css.map",
+    "main.d302d481.js.map": "/prashil-vaishnani/React_5.git/static/js/main.d302d481.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4f76af8.css",
+    "static/js/main.d302d481.js"
+  ]
+}
